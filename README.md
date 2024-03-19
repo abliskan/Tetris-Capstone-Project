@@ -7,6 +7,29 @@ In this project, I will extract data from many source (e.g official BPS, statist
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dqlab-tetris-capstone-project-2024git-caa4ju9woadttmducmiygy.streamlit.app/)
 
 ## Dashboard Preview
+### Part-1
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-1.png)
+
+### Part-2
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-2.png)
+
+### Part-3
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-3.png)
+
+### Part-4
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-4.png)
+
+### Part-5
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-5.png)
+
+### Part-6
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-6.png)
+
+### Part-7
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-7.png)
+
+### Part-8
+![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-8.png)
 
 ## Features
 - Interactive data visualization
