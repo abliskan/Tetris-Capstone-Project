@@ -1,0 +1,10 @@
+[theme]
+# primaryColor = Ruby
+primaryColor = "#f63366"
+# backgroundColor = Night Blue
+backgroundColor = "#151B54"
+# secondaryBackgroundColor = Black
+secondaryBackgroundColor = "#393939"
+# textColor = White
+textColor = "#fafafa"
+font = "sans serif"
