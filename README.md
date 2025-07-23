@@ -6,6 +6,9 @@ In this project, I will extract data from many source (e.g official BPS, statist
 ## Deployment
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dqlab-tetris-capstone-project-2024git-caa4ju9woadttmducmiygy.streamlit.app/)
 
+## Deck
+<a href="https://docs.google.com/presentation/d/1Yx6zUXUWdnxrSraE15PDmn-uTB9cHbMh/edit?usp=sharing&ouid=113922213290016669787&rtpof=true&sd=true"> Perkembangan Budidaya Rumput Laut di Indonesia (2019-2022) </a>
+
 ## Dashboard Preview
 ### Part-1
 ![Seaweed_analysis_Dashboard](https://github.com/abliskan/Tetris-Capstone-Project/blob/main/asset/images/data-viz-ss-1.png)
